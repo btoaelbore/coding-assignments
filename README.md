@@ -54,6 +54,5 @@ Please see the Attached `gif` for the Design
 * If you have questions and concerns you can create discussion, Go to "Discussion" tab then create New
 * Data should only in the client side you can use `localStorage`, `Singleton variable`, or `state management` library
 * Make it simple DON'T use any 3rd Party UI Library i.e Material Design or Angular Bootstrap
-* Don't over Architect it
 
 
