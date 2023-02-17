@@ -14,8 +14,8 @@
 * Github account
 
 ## Getting Started
-* fork the repository
-* Make it private repository
+* clone the repository in your account
+* Make it PRIVATE repository
 * add user `btoaelbore` as Collaborator
 * update this `README` file to include the installation guide
 
@@ -30,9 +30,9 @@
 Please see the Attached `gif` for the Design
 * List all the Products 
   * Product Name, 
-  * Description 
+  * Description (just create descriptive decription)
   * Price of the Product
-  * In Stock (Should be hidden in UI)
+  * Stocks Available (Should be hidden in UI)
 * On Each Product it should have "Add to Cart" button
 * When i click the "Add to Cart" button it should
   * Add to Cart List
